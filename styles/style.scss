@@ -1,0 +1,13 @@
+@import 'navbar';
+@import 'showcase';
+@import "footer";
+
+//genel ozellikleri sifirla ve buyukluk kontrolunu ele al
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family:'Times New Roman', Times, serif
+}
+
+
